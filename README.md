@@ -12,8 +12,10 @@ The thesis was later converted into a [**Random Sampling Method for Cryptocurren
 
 This paper applies the **Random Sampling Method (RSM)** to perform the classification task for cryptocurrency time series which are known to be non-stationary causing an issue of non-applicability of the basic signal processing models. The Long Short Term Memory (LSTM) networks, from another hand, have been demonstrated to be particularly useful for learning sequences containing long-term patterns of unknown length such as at this task. Based on this observation the RSM has been developed as a deep learning algorithm built **on the basis of LSTM cells** and thus having all the advantages of the traditional algorithms, but with the more flexible architecture that provides the resistance to the class imbalance problem. The main advantageous features of RSM is exploitation of the **metric learning** and **special sampling scheme**.
 
+## Scematical Representation of the RSM
+
 <p align="center">
-  <img src="./images/img_2_cut.png" width="933" height="707"/>
+  <img src="./images/img_2_cut.png" width="933" height="677"/>
 </p>
 
 ## Author
